@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MIrwOYigYA+WNJOm44IKkWStJS11yHvlpLgoUMfhCOdqru7q4QCxKe3LzSBVahFkLu0MoYL/le5P23dol9WmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arevp\\Source\\Repos\\Tentoora\\RabbitMQComponent\\RabbitMQComponent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arevp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arevp\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\arevp\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\arevp\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\arevp\\.nuget\\packages\\sharpziplib\\1.4.0\\sharpziplib.1.4.0.nupkg.sha512",
+    "C:\\Users\\arevp\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\arevp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\arevp\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
